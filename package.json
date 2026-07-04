@@ -1,0 +1,29 @@
+{
+  "name": "yoru",
+  "version": "1.0.0",
+  "description": "High-performance sharded Discord music bot powered by Lavalink v4",
+  "main": "shards.js",
+  "scripts": {
+    "start": "node shards.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "lavalink",
+    "music",
+    "sharded"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "lavalink-client": "^2.10.3",
+    "musicard": "^3.0.1"
+  },
+  "overrides": {
+    "undici": "^6.27.0"
+  }
+}
