@@ -189,7 +189,7 @@ node shards
 
 ### 🎤 Voice
 
-* 
+* vc kick, vc mute, vc unmute, vc deafen, vc undeafen , vc move, vc drag, vc pull, vc lock, vc unlock, vc public, vc private, vc muteall, vc unmuteall, vc deafenall, vc undeafenall, vc moveall, vc dragall, vc pullall, vc limit
 
 ### ⚙️ General
 
